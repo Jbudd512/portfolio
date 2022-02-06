@@ -1,0 +1,21 @@
+#projectAll {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.ProjectSubOne {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ProjectImage {
+  width: 275px;
+  height: 275px;
+  border: 1.5px solid black;
+  margin: 5px;
+}

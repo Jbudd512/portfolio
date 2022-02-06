@@ -1,0 +1,21 @@
+#profile {
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mainBody {
+  font-size: 25px;
+  margin: 15px;
+}
+
+#languages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Icons {
+  height: 50px;
+}

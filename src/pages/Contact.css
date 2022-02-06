@@ -1,0 +1,82 @@
+#headerContact {
+  text-align: center;
+}
+
+#fname {
+  box-sizing: border-box;
+  display: block;
+  margin: 20px;
+  vertical-align: middle;
+  max-width: 100%;
+  padding: 18px 20px;
+  color: #000000;
+  background: #cdcaca;
+  margin-bottom: 27px;
+  border: 0;
+  outline: none;
+  font-size: 15px;
+  line-height: 24px;
+  width: 45vw;
+  margin-left: 27.5vw;
+  margin-right: 27.5vw;
+}
+
+#email {
+  box-sizing: border-box;
+  display: block;
+  margin: 20px;
+  vertical-align: middle;
+  max-width: 100%;
+  padding: 18px 20px;
+  color: #000000;
+  background: #cdcaca;
+  margin-bottom: 27px;
+  border: 0;
+  outline: none;
+  font-size: 15px;
+  line-height: 24px;
+  width: 45vw;
+  margin-left: 27.5vw;
+  margin-right: 27.5vw;
+}
+
+#subject {
+  box-sizing: border-box;
+  display: block;
+  margin: 20px;
+  vertical-align: middle;
+  max-width: 100%;
+  min-height: 220px;
+  padding: 18px 20px;
+  color: #000000;
+  background: #cdcaca;
+  margin-bottom: 27px;
+  border: 0;
+  outline: none;
+  font-size: 15px;
+  line-height: 24px;
+  width: 45vw;
+  margin-left: 27.5vw;
+  margin-right: 27.5vw;
+}
+
+#submit-fix {
+  box-sizing: border-box;
+  font: 16px/30px "opensans-bold", sans-serif;
+  margin: 20px;
+  display: inline-block;
+  text-decoration: none;
+  letter-spacing: 0;
+  cursor: pointer;
+  height: auto;
+  transition: all 0.2s ease-in-out;
+  border-radius: 3px;
+  padding: 18px 20px;
+  color: #000000;
+  background: #cdcaca;
+  border: 0;
+  outline: none;
+  font-size: 15px;
+  line-height: 24px;
+  width: 45vw;
+}

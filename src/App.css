@@ -1,0 +1,96 @@
+body {
+  background: hsl(0, 0%, 85%);
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 15px;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  font-size: 60px;
+  color: black;
+  margin: 20px;
+}
+
+p {
+  font-size: 25px;
+}
+
+.LinkButton {
+  margin: 10px;
+  width: 100px;
+  height: 35px;
+  border: 2px black solid;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(183, 62%, 70%);
+  border-width: 4px;
+  border-color: black;
+  border-radius: 60%;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+#allButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#filler {
+  height: 5000px;
+  background: transparent;
+}
+
+#About {
+  height: 400px;
+  width: 1000px;
+  margin: 0 auto;
+  background: silver;
+  text-align: center;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-self: center;
+}
+
+#Homepage {
+  height: 700px;
+  background: transparent;
+}
+
+#Projects {
+  height: 400px;
+  width: 1000px;
+  background: silver;
+  margin-top: 600px;
+  text-align: center;
+}
+
+#Contact {
+  height: 600px;
+  width: 1000px;
+  background: silver;
+  margin-top: 600px;
+  text-align: center;
+}
+
+.FlexBoxColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
